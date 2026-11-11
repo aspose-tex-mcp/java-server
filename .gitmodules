@@ -1,0 +1,6 @@
+[submodule "engine"]
+	path = engine
+	url = https://github.com/aspose-core-mcp/context-engine.git
+[submodule "plugins/tex-java"]
+	path = plugins/tex-java
+	url = https://github.com/aspose-tex-mcp/java-plugin.git
